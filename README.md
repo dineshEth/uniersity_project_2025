@@ -7,6 +7,7 @@
   </div>
 
   <h3 align="center">Next.js 14 AI Prompt Sharing Application</h3>
+  <a href="https://promptstopia.vercel.app/" >Live Project</a>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
